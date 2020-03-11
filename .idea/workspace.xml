@@ -4,7 +4,12 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da775aa3-ce13-4a4b-838d-3561e618e3e0" name="Default Changelist" comment="" />
+    <list default="true" id="da775aa3-ce13-4a4b-838d-3561e618e3e0" name="Default Changelist" comment="first project">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstProject/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/firstProject/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +18,27 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="XBB" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YySuBjW5ptnXRe9UiiFmvyAh4E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -55,15 +70,51 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first project" />
+    <option name="LAST_COMMIT_MESSAGE" value="first project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1201" y="267" key="FileChooserDialogImpl" timestamp="1583915094247">
+    <state x="1016" y="178" key="#Java" timestamp="1583915971352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1201" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583915094247" />
-    <state x="922" y="168" key="SettingsEditor" timestamp="1583915096466">
+    <state x="1016" y="178" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1583915971352" />
+    <state x="1173" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583919762445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583915096466" />
+    <state x="1173" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583919762445" />
+    <state x="1055" y="112" key="CommitChangelistDialog2" timestamp="1583931632592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1055" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583931632592" />
+    <state x="1201" y="267" key="FileChooserDialogImpl" timestamp="1583919757197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583919757197" />
+    <state width="940" height="203" key="GridCell.Tab.0.bottom" timestamp="1583931542326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583931542326" />
+    <state width="940" height="203" key="GridCell.Tab.0.center" timestamp="1583931542325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583931542325" />
+    <state width="940" height="203" key="GridCell.Tab.0.left" timestamp="1583931542325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583931542325" />
+    <state width="940" height="203" key="GridCell.Tab.0.right" timestamp="1583931542325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583931542325" />
+    <state x="940" y="157" width="916" height="708" key="SettingsEditor" timestamp="1583927267502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="940" y="157" width="916" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583927267502" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583915327206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1583915327206" />
     <state x="1116" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1583913598905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
